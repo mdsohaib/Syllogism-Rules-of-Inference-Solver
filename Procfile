@@ -1,0 +1,1 @@
+web gunicorn rulesinf.wsgi:application --log-file -
